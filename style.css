@@ -1,0 +1,24 @@
+.container {
+    text-align:center;
+}
+table{
+    margin:auto;
+    width:188px;
+    height:235px;
+}
+.input{
+    border-radius:21px;
+    width:400px;
+    height:50px;
+    border:5px solid #244624;
+    font-size:34px;
+}
+.btn {
+    width: 370px;
+}
+.btn button{
+    border-radius: 20px;
+    font-size: 40px;
+    background-color: grey;
+    width: 87px;
+}
